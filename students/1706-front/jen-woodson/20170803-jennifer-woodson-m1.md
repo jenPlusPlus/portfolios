@@ -303,32 +303,32 @@ I hoped to build my professional and networking skills, along with soft skills.
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This was a great session on mindset, self-talk, and remaining positive. I really enjoyed the video about the children who did better when they got the right kind of criticism. I've really focused on maintaining a growth mindset this mod. It's easy to get bogged down, stressed out, and overwhelmed. It's important to handle these feelings in a healthy way. I can do it!
 
 #### (Work Style)
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I was unfamiliar with the given definition for introvert and extrovert. This was interesting. I thought it was interesting to see how many people identified as introverts. I've made an effort since the GearUp to read others' styles and try to treat them accordingly. I especially am trying to be aware of when people need space. 
 
 #### (StrengthsFinder)
 
 * [GitHub URL]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I enjoyed doing the StrengthsFinder questionnaire. My strengths were mostly soft skills, like harmony and empathy. I've tried to use these strengths in my time at Turing. I try to see others as real people with real feelings and real things going on. I've tried to bring a human aspect to Turing that can get lost in all that we are doing. 
 
 #### (Personal Story)
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_4_personal_story.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Telling your personal story is so important. So much of job searching is who you know. It's important to be comfortable telling your story. I plan to attend more MeetUps to give myself an opportunity to share my story and practice. My story is worth telling. 
 
 
 #### (M4-led-Being a Newb in Tech)
 
 * [GitHub URL]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This GearUp was about giving back to the tech community. The main takeaway is that you're ready now, even if you don't feel like you are. I plan to give back by mentoring when I can. I hope to be an asset to the new mod1 students when I am in mod2. 
 
 ## E: Community Participation
 
